@@ -9,7 +9,7 @@
                     <span class="letters">Cricket Informer</span>
                 </span>
             </h1>
-             <h4 style="padding-top: 3%">One Place To Get Any Cricket Related Information.</h4>
+             <h4 style="padding-top: 3%; padding-bottom: 5%">One Place To Get Any Cricket Related Information.</h4>
         </div>
 
         <div class="col-lg-6 col-md-12 col-sm-12 div1">
