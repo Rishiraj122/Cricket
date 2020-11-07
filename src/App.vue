@@ -588,7 +588,7 @@ section{
   border-radius: 3%;
   width: 90%;
   margin: 0 auto;
-  margin-top: 0.5%;
+  margin-top: 1%;
 }
 
 </style>
