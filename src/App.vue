@@ -9,7 +9,7 @@
                     <span class="letters">Cricket Informer</span>
                 </span>
             </h1>
-             <h4>One Place To Get Any Cricket Related Information.</h4>
+             <h4 style="padding-top: 3%">One Place To Get Any Cricket Related Information.</h4>
         </div>
 
         <div class="col-lg-6 col-md-12 col-sm-12 div1">
@@ -495,11 +495,11 @@ export default {
 }
 
 
-
-
-
-
 </script>
+
+
+
+
 
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&display=swap');
@@ -569,6 +569,7 @@ section{
 
 .div2{
   padding-bottom:5%;
+  padding-top: 3%;
 }
 
 .r1{
