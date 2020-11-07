@@ -572,11 +572,11 @@ section{
 }
 
 .r1{
-    padding-top: 7%;
+    padding-top: 8%;
 }
 
 .r2{
-    padding-top: 19%;
+    padding-top: 21%;
   padding-bottom: 7%;
 }
 
