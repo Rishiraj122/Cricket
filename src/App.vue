@@ -1,23 +1,21 @@
 <template>
 
     <div class="container" style="text-align: center;">
-      <div class="row">
+      <div class="row r1">
         
-        <div class="col-lg-12 col-md-12 col-sm-12 name" style="text-align: center">
+        <div class="col-lg-6 col-md-12 col-sm-12 name" style="text-align: center">
             <h1 class="firstText">
                 <span class="text-wrapper">
                     <span class="letters">Cricket Informer</span>
                 </span>
             </h1>
+             <h4>One Place To Get Any Cricket Related Information.</h4>
         </div>
 
-        <div class="col-lg-12 col-md-12 col-sm-12 div1">
-          <img src="./gameDay.png" style="width: 70%">
+        <div class="col-lg-6 col-md-12 col-sm-12 div1">
+          <img src="./gameDay.png" style="width: 100%">
         </div>
         
-        <div class="col-lg-12 col-md-12 col-sm-12 textBeforeSearch">
-          <h4>One Place To Get Any Cricket Related Information.</h4>
-        </div>
       </div>
       <div class="row r2">
         <section style="background-color: black; margin: 0 auto; width: 100%">
@@ -518,7 +516,7 @@ body{
 }
 
 .name{
-    padding-top: 3%;
+    padding-top: 20%;
     margin-bottom: -5%;
 }
 
@@ -555,7 +553,7 @@ body{
 
 
 input{
-  width: 60%;
+  width: 70%;
   text-align: center;
   padding: 1%;
   border: 2px solid black;
@@ -573,7 +571,12 @@ section{
   padding-bottom:5%;
 }
 
+.r1{
+    padding-top: 7%;
+}
+
 .r2{
+    padding-top: 19%;
   padding-bottom: 7%;
 }
 
@@ -582,7 +585,7 @@ section{
   background-color: blueviolet;
   color: white;
   border-radius: 3%;
-  width: 80%;
+  width: 90%;
   margin: 0 auto;
   margin-top: 0.5%;
 }
